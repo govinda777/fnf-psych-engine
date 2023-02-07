@@ -14,3 +14,14 @@ mkdir ~/haxelib && haxelib setup ~/haxelib
 haxelib install lime
 haxelib install openfl
 haxelib install flixel
+haxelib run lime setup flixel
+haxelib run lime setup
+haxelib run flixel-tools setup
+
+# comandos usados para a engine
+haxelib install flixel
+haxelib install flixel-addons
+haxelib install flixel-ui
+haxelib install hscript
+haxelib install newgrounds
+lime test linux -debug
