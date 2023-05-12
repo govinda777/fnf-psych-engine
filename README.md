@@ -1,5 +1,14 @@
 # fnf-psych-engine
 
+## Objetivo
+
+Jogo de batalha de batalha de musica
+
+## UIs
+
+WEB <ok> - > FALTA MAPEAR COMO PUBLICAR UMA VERSÃO
+Mobile <building>
+
 # extenções usadas
 1-Haxe
 2-Haxe extention Pack
